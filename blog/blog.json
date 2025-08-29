@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "title": "My First Post: An Introduction",
+            "date": "August 28, 2025",
+            "content": [
+                "Welcome to my blog! This is where I'll be sharing my thoughts, personal projects, and insights on web development and design.",
+                "My goal is to create a useful space for both beginners and experienced developers to learn and grow. I'll cover topics from fundamental concepts to advanced techniques, with practical examples and code snippets."
+            ]
+        },
+        {
+            "title": "Learning Web Development: Where to Start?",
+            "date": "August 20, 2025",
+            "content": [
+                "Many people ask me where to begin their web development journey. My advice is always the same: start with the foundations. Don't rush into complex frameworks.",
+                "Focus on **HTML, CSS, and JavaScript**. These three languages are the building blocks of the web. Once you have a solid grasp of these, you can explore libraries and frameworks like React or Vue.js."
+            ]
+        }
+    ]
+}

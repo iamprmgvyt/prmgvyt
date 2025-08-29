@@ -1,0 +1,19 @@
+{
+    "apikeys": [
+        {
+            "name": "OpenAI API Key",
+            "description": "Used for AI models and language processing.",
+            "key": "Soon!"
+        },
+        {
+            "name": "GitHub API Key",
+            "description": "Used to interact with the GitHub API for project management and automation.",
+            "key": "Soon!"
+        },
+        {
+            "name": "Google Maps API Key",
+            "description": "Provides access to Google Maps services, including maps, routes, and geocoding.",
+            "key": "Soon!"
+        }
+    ]
+}

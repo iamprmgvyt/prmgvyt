@@ -1,0 +1,29 @@
+{
+    "bots": [
+        {
+            "name": "AI Code Fixer",
+            "description": "A bot can help you fix your error codes",
+            "status": "Online",
+            "link": "https://discord.com/oauth2/authorize?client_id=1406540483135668274&permissions=3072&integration_type=0&scope=bot+applications.commands",
+            "image": "images/AICodeFixer",
+            "website": "prmgvyt.io.vn"
+        },
+        {
+            "name": "ModiCore",
+            "description": "An automod bot that protect your servers.",
+            "status": "Online",
+            "link": "https://discord.com/oauth2/authorize?client_id=1398776861202583752&permissions=1116959932470&integration_type=0&scope=bot+applications.commands",
+            "image": "images/ModiCore",
+            "website": "https://modicore.vercel.app/"
+        },
+        {
+            "name": "All In One",
+            "description": "An AIO Bot with 50+ commands",
+            "status": "Online",
+            "link": "https://discord.com/oauth2/authorize?client_id=1373687706894204948&scope=bot&permissions=1116959940662",
+            "image": "images/aio",
+            "website": "prmgvyt.io.vn"
+            
+        }
+    ]
+}

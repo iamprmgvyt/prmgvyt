@@ -1,0 +1,18 @@
+{
+    "projects": [
+        {
+            "name": "Web Profile",
+            "description": "A simple, modern web profile with a gradient background and dynamic buttons for social media and other pages.",
+            "tech": ["HTML", "CSS", "JavaScript"],
+            "url": "https://github.com/iamprmgvyt/prmgvyt",
+            "image": ""
+        },
+        {
+            "name": "All In One(Node.JS)",
+            "description": "All In One Bot Code with 50+ commands for your Discord bot!",
+            "tech": ["JavaScript"],
+            "url": "https://github.com/iamprmgvyt/All-In-One",
+            "image": ""
+        }
+    ]
+}

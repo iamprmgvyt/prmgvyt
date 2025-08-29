@@ -1,0 +1,44 @@
+{
+    "buttons": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/iamprmgvyt",
+            "icon": "fa-brands fa-github"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/@MRGAMINGVN",
+            "icon": "fa-brands fa-youtube"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/Pf3z9z7w96",
+            "icon": "fa-brands fa-discord"
+        },
+        {
+            "name": "Blog",
+            "url": "blog/blog.html",
+            "icon": "fa-solid fa-blog"
+        },
+        {
+            "name": "My Projects",
+            "url": "projects/myprojects.html",
+            "icon": "fa-solid fa-hammer"
+        },
+        {
+            "name": "My Discord Bots",
+            "url": "discordbot/mydiscordbot.html",
+            "icon": "fa-brands fa-discord"
+        },
+        {
+            "name": "API Keys",
+            "url": "api/apikey.html",
+            "icon": "fa-solid fa-key"
+        },
+        {
+            "name": "Source Of Web",
+            "url": "viewsource/viewsource.html",
+            "icon": "fa-solid fa-code"
+        }
+    ]
+}
