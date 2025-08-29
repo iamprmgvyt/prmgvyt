@@ -3,17 +3,18 @@
         {
             "name": "OpenAI API Key",
             "description": "Used for AI models and language processing.",
-            "key": "Soon!"
+            "key": "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"
         },
         {
-            "name": "GitHub API Key",
-            "description": "Used to interact with the GitHub API for project management and automation.",
-            "key": "Soon!"
+            "name": "Google Safe Browsing",
+            "description": "Used for checking domains",
+            "key": "AIzaSyAewEUgOlzjIqHnksIkrKBOapKvBbh9-mI"
         },
         {
-            "name": "Google Maps API Key",
+            "name": "Gemini API Key",
             "description": "Provides access to Google Maps services, including maps, routes, and geocoding.",
-            "key": "Soon!"
+            "key": "AIzaSyD9ZDI5xgjEmoNn6m9QjHgw3DJu4v1ADpw(Please choose 1-1.5 models to use!)"
         }
     ]
+
 }
