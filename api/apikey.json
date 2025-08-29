@@ -12,9 +12,10 @@
         },
         {
             "name": "Gemini API Key",
-            "description": "Provides access to Google Maps services, including maps, routes, and geocoding.",
-            "key": "AIzaSyD9ZDI5xgjEmoNn6m9QjHgw3DJu4v1ADpw(Please choose 1-1.5 models to use!)"
+            "description": "Used for Gemini AI Models(Please choose 1 to 1.5 models to use)",
+            "key": "AIzaSyD9ZDI5xgjEmoNn6m9QjHgw3DJu4v1ADpw"
         }
     ]
 
 }
+
